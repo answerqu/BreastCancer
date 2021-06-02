@@ -1,0 +1,74 @@
+f_1_1_1 Матожидание по гистограмме яркостей изображения 
+f_1_1_2 Стандартное отклонение по гистограмме яркостей изображения
+f_1_1_3 Дисперсия по гистограмме яркостей изображения 
+f_1_1_4 Медиана по гистограмме яркостей изображения (квантиль уровня 0.5)
+f_1_1_5 Асимметрия (Skewnness) по гистограмме яркостей изображения 
+f_1_1_6 Эксцесс (Kurtosis) по гистограмме яркостей изображения
+f_1_1_7 Энтропия по гистограмме яркостей изображения
+f_1_1_8 Энергия по гистограмме яркостей изображения
+f_1_1_9 Мода (наиболее встречаемое значение) по гистограмме яркостей изображения
+f_1_1_10 90% процентиль по гистограмме яркостей изображения
+f_1_3_1 Первый момент изображения по оси x
+f_1_3_2 Первый момент изображения по оси y
+f_1_3_5 Расстояние от геометрического центра до центра масс по оси x
+f_1_3_6 Расстояние от геометрического центра до центра масс по оси y
+f_1_4_1 Разница между максимальным и минимальным значением яркости изображения
+f_2_1_1 Автокорреляция по GLCM
+f_2_1_2 Контраст по GLCM
+f_2_1_3 Корреляция 1
+f_2_1_4 Корреляция 2
+f_2_1_5 Cluster prominence
+f_2_1_6 Cluster shade
+f_2_1_7 Несходство
+f_2_1_8 Энергия
+f_2_1_9 Энтропия(HXY)
+f_2_1_10 Однородность 1
+f_2_1_11 Однородность 2
+f_2_1_12 Максимальная вероятность
+f_2_1_13 Сумма квадратов
+f_2_1_14 Суммарное среднее
+f_2_1_15 Суммарная энтропия (SE)
+f_2_1_16 Суммарное отклонение
+f_2_1_17 Difference variance (Отклонение разности)
+f_2_1_18 Difference entropy (Энтропия разности)
+f_2_1_19 HX1
+f_2_1_20 HX2
+f_2_1_21 Information measure (IM) of correlation I
+f_2_1_22 IM of correlation II
+f_2_1_23 Inverse difference (ID) normalized
+f_2_1_24 ID moment normalized
+f_2_3_1 Short Run Emphasis
+f_2_3_2 Long Run Emphasis
+f_2_3_3 Gray-Level Nonuniformity
+f_2_3_4 Run Length Nonuniformity
+f_2_3_5 Run Percentage
+f_2_3_6 Low Gray-Level Run Emphasis (LGRE)
+f_2_3_7 High Gray-Level Run Emphasis (HGRE)
+f_2_3_8 Short Run Low Gray-Level Emphasis (SRLGE)
+f_2_3_9 Short Run High Gray-Level Emphasis (SRHGE)
+f_2_3_10 Long Run Low Gray-Level Emphasis (LRLGE)
+f_2_3_11 Long Run High Gray-Level Emphasis (LRHGE)
+f_2_4_1 Short-Zone Emphasis
+f_2_4_2 Long-Zone Emphasis
+f_2_4_3 Low Gray-level Zone Emphasis
+f_2_4_4 High Gray-level Zone Emphasis
+f_2_4_5 Short-Zone Low Gray-level Emphasis
+f_2_4_6 Short-Zone High Gray-level Emphasis
+f_2_4_7 Long-Zone Low Gray-level Emphasis
+f_2_4_8 Long-Zone High Gray-level Emphasis
+f_2_4_9 Gray-Level Non-Uniformity
+f_2_4_10 Zone Length Non-Uniformity
+f_2_4_11 Zone Percentage
+f_2_5_1 NGLDM_Coarseness
+f_2_5_2 NGLDM_Contrast
+f_2_5_3 NGLDM_Busyness
+f_2_5_4 NGLDM_Complexity
+f_2_5_5 NGLDM_Complexity
+f_2_6 LBP Code Frequency
+f_2_7 LDN
+f_4_1_1 Среднее значение результата преобразования Фурье над изображением
+f_4_1_2 Максимальное значение результата преобразования Фурье над изображением
+f_4_5_1 Энергия изображения после применения Фильтра Габора
+f_4_5_2 Амплитуда изображения после применения Фильтра Габора
+f_4_5_3 Направления максимальной и минимальной энергии после применения Фильтра Габора
+f_4_5_4 Направления максимальной и минимальной энергии после применения Фильтра Габора
